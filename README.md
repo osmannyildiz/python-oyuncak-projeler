@@ -1,2 +1,2 @@
-# python-oyuncak-projeler
+# Python Oyuncak Projeler
 Ufak tefek Python kodlarım
