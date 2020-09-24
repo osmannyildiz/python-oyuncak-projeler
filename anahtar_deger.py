@@ -1,4 +1,4 @@
-# Anahtar Değer [v1]
+# Anahtar Değer
 # Kullanıcıdan aldığı anahtar-değer çiftlerini düzenli bir şekilde listeler.
 #
 # Yazan: osmannyildiz <iamosmannyildiz@gmail.com>
